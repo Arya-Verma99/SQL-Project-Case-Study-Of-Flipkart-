@@ -124,7 +124,5 @@ To visualize the relationships between the various tables in a e-commerce platfo
   
 
 
-### Scattered Customer Experience
-
 
 
